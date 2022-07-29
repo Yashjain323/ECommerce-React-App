@@ -1,0 +1,97 @@
+.heading
+{
+  margin-left: -100px;
+  background-color: black;
+  color: white !important;
+  padding: 10px;
+  border-radius: 7px;
+  margin-right:150px !important;
+}
+
+.navbarApni{
+  display: block;
+  float: right !important;
+  margin-right: 10px !important;
+}
+.image
+{
+  width: 300px; 
+  height: auto; 
+  display: block; 
+  margin: 20px auto;
+}
+.ProductImage
+{
+  
+ margin-top: 50px;
+ 
+  width: 350px; 
+  margin-left: -30px !important;
+
+}
+.ProductDiv
+{
+  width:400px;
+  float:right;
+}
+.headerHeading
+{
+  text-align: center;
+}
+.reqList {
+  align-self: center;
+}
+.shopTemplate{
+  margin-top: 10px; 
+}
+.Pdetails
+{
+  width: 60%;
+  padding: 50px;
+}
+.Pbuttons
+{
+  width: 60%;
+  padding-left: 200px;
+}
+.PHeading
+{
+  text-align: center;
+  padding-top: 50px;
+}
+.Simage
+{
+  
+  width: 300px; 
+ margin-top: 0px;
+  float: right;
+  flex-direction: column;
+}
+.ShowProducts
+{
+  float: right;
+}
+.ShopImage
+{
+  width: 400px; 
+  margin-top: 0px;
+  margin-left: -150px;
+}
+.ImgContainer{
+  float:right;
+  width:300px;
+  margin-top: 0px;
+  flex-direction: column;
+}
+.ShopButton{
+  margin-top: 50px !important;
+  margin-left: -46px !important;
+}
+.UShopButton
+{
+  float: left;
+}
+
+.buttonCss:hover {
+  color: white !important;
+}
